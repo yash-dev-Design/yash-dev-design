@@ -341,27 +341,6 @@ React.js, Node.js, Express.js, PostgreSQL
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yash-dev-design&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yash-dev-design/yash-dev-design/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> To make the snake animation work, add GitHub Actions workflow in `.github/workflows/snake.yml`.
-
----
 
 ## 🎯 Current Focus
 
